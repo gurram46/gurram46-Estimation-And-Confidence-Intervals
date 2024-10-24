@@ -1,1 +1,1 @@
-# gurram46-Estimation-And-Confidence-Intervals
+# Estimation-And-Confidence-Intervals
